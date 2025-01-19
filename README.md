@@ -1,2 +1,2 @@
 # Snake-Game
-Enjoy Nd play
+Enjoy and play
